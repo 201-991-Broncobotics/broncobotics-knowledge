@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Packing List.md",
+            "file": "How to Use.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Packing List.md",
+                "file": "How to Use.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Packing List.md",
+                "file": "How to Use.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,15 +117,15 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Packing List.md"
+                "file": "How to Use.md"
               }
             }
           },
           {
-            "id": "f5a22af197e7c22b",
+            "id": "25b7129b049ea486",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "git-view",
               "state": {}
             }
           }
@@ -133,14 +133,14 @@
         "currentTab": 4
       },
       {
-        "id": "7aaca7610987fa2a",
+        "id": "f43ebf8d869ab00f",
         "type": "tabs",
         "children": [
           {
-            "id": "fe30118f787e95d4",
+            "id": "f5a22af197e7c22b",
             "type": "leaf",
             "state": {
-              "type": "git-view",
+              "type": "graph",
               "state": {}
             }
           }
@@ -152,15 +152,15 @@
   },
   "active": "1c31284644b0e76e",
   "lastOpenFiles": [
-    "Retreat.md",
+    "Website.md",
+    "How to Use.md",
+    "FTC/Design Resources/Important FTC Links.md",
+    "FTC/FTC.md",
     "index.md",
-    "Packing List.md",
     "Team Handbook.md",
+    "Retreat/Retreat.md",
+    "Retreat/Packing List.md",
     "Topic 1/Note 2.md",
-    "Robotics Retreat.md",
-    "Permission to Travel.md",
-    "Packing Plan.md",
-    "Topic 1/Note 1.md",
-    "README.md"
+    "Robotics Retreat.md"
   ]
 }
