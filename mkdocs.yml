@@ -1,6 +1,7 @@
 site_name: Broncobotics Knowledge
 
 theme:
+    logo: material/engineering
     name: 'material'
     palette:
 
@@ -47,6 +48,7 @@ plugins:
   - search
   - roamlinks 
   - mermaid2
+  
 
 extra_javascript:
   - javascripts/mathjax.js
