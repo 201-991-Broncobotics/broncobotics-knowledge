@@ -1,4 +1,4 @@
-# Broncobotics Knowledge
+# Broncobotics
 
 ## Organization
 [[Team Handbook]]
@@ -8,6 +8,9 @@
 [[Website]]
 
 [[FTC]]
+
 [[FRC]]
+
 [[VRC]]
+
 [[VEXIQ]]

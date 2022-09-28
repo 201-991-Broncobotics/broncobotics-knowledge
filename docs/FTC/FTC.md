@@ -1,2 +1,2 @@
 # FTC Main Page
-[[Important FTC Links]]
+[[FTC Links]]

@@ -1,4 +1,5 @@
-# How to Use/Add to this Resource
+# How to Use
+How to use/add to this resource
 ## Git/Github
 ### Setting up Git
 1.  Go to [https://sourceforge.net/projects/git-osx-installer/files/git-2.33.0-intel-universal-mavericks.dmg/download?use_mirror=autoselect](https://sourceforge.net/projects/git-osx-installer/files/git-2.33.0-intel-universal-mavericks.dmg/download?use_mirror=autoselect) 
@@ -29,7 +30,7 @@ Watch this video for an excellent example of how to use git & GitHub.
 You should be ready to edit the code in it
 
 ## [Obsidian](https://obsidian.md/)
-- A markdown editor to edit files and upload the
+A markdown editor to edit files and upload the
 
 1. Install it on your computer
 2. Open the docs folder of the code that you cloned as a vault

@@ -1,7 +1,7 @@
 site_name: Broncobotics Knowledge
 
 theme:
-    logo: material/engineering
+    logo: img/logo.png
     name: 'material'
     palette:
 

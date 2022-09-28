@@ -1,4 +1,4 @@
-# Important Links
+# FTC Links
 ## Internal Resources
 - [[How to Use]]
 ## ExternalWebsites
